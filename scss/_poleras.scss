@@ -1,0 +1,52 @@
+.poleras{
+    background-image: url(./assets/img/poleras_fondo.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+}
+
+.poleras1{
+    display: flex;
+    justify-content: center;
+}
+
+.poleras h3{
+    display: block;
+    width: 100%;
+    padding: 30px;
+    font-size: 40px;
+    font-family: "nova";
+    color: #FFFFFF;
+    text-align: center;
+}
+div img{
+    display: flex;
+    justify-content: center;
+}
+.polerasFondo{
+    background: rgba(37, 39, 70, 0.7);
+    position: relative;
+    top: -400px;
+}
+.button {
+    font-family: "museo-300";
+    color: rgba(42, 47, 79, 1);
+    font-size: 30px;
+    padding: 10px;
+    text-decoration: none;
+    -webkit-border-radius: 28px;
+    -moz-border-radius: 28px;
+    border-radius: 28px;
+    -webkit-box-shadow: 0px 1px 3px #2926c9;
+    -moz-box-shadow: 0px 1px 3px #2926c9;
+    box-shadow: 0px 1px 3px #2926c9;
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    position: relative;
+    top: -291px;
+    left: 720px;
+    display: flex;
+    justify-content: center;
+}

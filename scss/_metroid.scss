@@ -1,0 +1,65 @@
+.metroid{
+    padding: 30px;
+    background-image: url(./assets/img/poleras_fondo.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "nova";
+    color: white;
+    text-align: center;
+}
+.metroid h3 {
+    display: block;
+    width: 100%;
+    padding: 30px;
+    font-size: 40px;
+}
+p a{
+    text-decoration: none;
+    color: #E5BEEC;
+    position: relative;
+    bottom: 19px;
+    font-size: 40px;
+}
+.ofertaMetroid{
+    color: red;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+.mikasa{
+    color: orange;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    font-size: 40px;
+}
+.ciego{
+    color: red;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    bottom: 19px;
+    font-size: 40px;
+
+}
+.monkey{
+    color: pink;
+    font-size: 40px;
+    position: relative;
+    bottom: 19px;
+    font-size: 40px;
+}
+article img{
+    width: 300px;
+}
+article{
+    background: rgba(42, 47, 79, 0.7);
+    border: 3px solid #FFFFFF;
+    display: inline-block;
+    width: 332px;
+    margin:50px;
+}
