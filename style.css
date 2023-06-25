@@ -288,7 +288,7 @@ ul li .footer {
 }
 @media (max-width: 1024px) {
   nav {
-    background-color: #131326;
+    background-color: #D9F5E3;
     justify-content: space-around;
     height: 80px;
     width: 100%;
@@ -318,7 +318,7 @@ ul li .footer {
 }
 @media (max-width: 768px) {
   nav {
-    background-color: #131326;
+    background-color: #D9F5E3;
     justify-content: center;
     height: 80px;
     height: 50px;
@@ -341,7 +341,7 @@ ul li .footer {
 }
 @media (max-width: 768px) and (max-width: 425px) {
   nav {
-    background-color: #131326;
+    background-color: #D9F5E3;
     height: 30px;
     height: 30px;
   }
